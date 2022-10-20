@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Media",
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "showInlineTitle": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute"
+}

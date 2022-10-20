@@ -1,0 +1,60 @@
+/* Updated 2022-10-16 */
+
+.character {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding-top: 20px !important;
+}
+
+.character .markdown-preview-section {
+    max-width: 100%;
+}
+
+/* Title at top of the document */
+.character .markdown-preview-section .title {
+    top: 60px;
+    position: absolute;
+    font-size: 26pt !important;
+    color: white;
+    text-shadow: 1.5px 1.5px black;
+    font-weight: bolder;
+    letter-spacing: 8px;
+}
+
+.character h1 {
+    border-bottom-style: solid !important;
+    border-width: 1px !important;
+    padding-bottom: 3px !important;
+}
+
+.character h2 {
+    padding-bottom: 2px !important;
+}
+
+
+/* Formatting for Unumbered Lists (Bullet Points) */
+.character div > ul {
+    
+    list-style-type: none;
+    display: flex;
+    column-gap: 50px;
+    flex-flow: row wrap;
+}
+
+.character div > ul > li {
+    min-width: 250px;
+    width: 15%;
+}
+
+/* Formatting for Numbered Lists */
+.character div > ol {
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    flex-flow: row wrap;
+}
+
+.character div > ol > li {
+    min-width: 250px;
+    width: 15%;
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "dashboard",
+    "home",
+    "character",
+    "book",
+    "table-border",
+    "zoom-image"
+  ],
+  "nativeMenus": true
+}
