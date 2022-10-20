@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: CAL Wiki Team
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -11,16 +11,14 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: 
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.3"
+  "CAL WIKI"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Mountaindale Press
+    link: https://www.mountaindalepress.com/
+  - link_name: Fandom Wiki
+    link: https://cal.fandom.com/
