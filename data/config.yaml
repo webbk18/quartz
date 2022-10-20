@@ -1,0 +1,24 @@
+name: CAL Wiki Team
+enableToc: false
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: false
+GitHubLink: 
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description:
+page_title:
+  "CAL WIKI"
+links:
+  - link_name: Mountaindale Press
+    link: https://www.mountaindalepress.com/
+  - link_name: Fandom Wiki
+    link: https://cal.fandom.com/
